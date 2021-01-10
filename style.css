@@ -3,7 +3,7 @@
 .centered {
   position: fixed;
   top: 50%;
-  left: 50%;
+  left: 45%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
 }
@@ -109,8 +109,8 @@ h3 {
 }
 
 .flip-container, .front, .back {
-  height: 350px;
-  width: 600px;
+  height: 450px;
+  width: 700px;
 }
 
 .flipper {
