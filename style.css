@@ -120,6 +120,7 @@ h3 {
 }
 
 .front, .back {
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   position: absolute;
 }
